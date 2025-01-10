@@ -1,0 +1,1 @@
+Demosntrações de como utilizar fetch para abrir e ler arquivos em javascript

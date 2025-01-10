@@ -1,0 +1,4 @@
+{
+    "mensagem" : "Olá Mundo!",
+    "linguagem" : "português"
+}
